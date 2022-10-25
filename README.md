@@ -1,2 +1,4 @@
 # make-collab-tests
 Script for translating text-based multiple-choice questions into the markup format accepted by Collab's "Tests &amp; Quizzes" feature
+
+make_test.py requires two command line arguments: an input file and an output file. The input file should contain multiple-choice test questions with the question on one line and answer choices each on successive lines. Questions should be separated by at least one blank line. Denote the correct answer choice by making the first character of its line an asterisk ("\*"). By default, the output file will instruct Collab to randomize answer choice order; to avoid this, as is desirable when answer choices like "All of the above" are included, make the first character of the line containing the question an equals sign ("="). Note that this script only supports text-based multiple-choice questions with equal point values.
