@@ -1,0 +1,137 @@
+=Why did the Human Genome Project primarily use Sanger sequencing?
+*Sanger sequencing was the best sequencing method available at the time.
+Sanger sequencing can perform extremely long reads.
+Sanger sequencing is the best sequencing method today.
+Frederick Sanger led the Human Genome Project.
+
+=Which of the following is a way that Celera attempted to generate profit?
+*Celera tried to patent sequence analysis of certain human genes.
+Celera planned to steal the Human Genome Project’s governmental funding.
+Celera planned to clone humans using their genetic information.
+Celera was a governmental non-profit, and thus did not seek to generate profit.
+
+Which of the following is a reason that Moore’s law is significant?
+*Moore’s law explains the exponential increase in humanity’s technological development.
+Moore’s law predicts that, in the future, sequencing a human genome will be free.
+Moore’s law shows how computational advances have outstripped advances in genome sequencing.
+Moore’s law prevents the misuse of genetic information.
+
+Which of the following statements best supports the claim that there is no biological basis for race?
+*Genetic variation within human populations is greater than genetic variation among human populations.
+Human race is primarily determined by geography.
+Genetic variation within human populations is less than genetic variation among human populations.
+All human populations are genetically identical.
+
+A 23andMe test reports that an individual is 2% French. What is a potential issue with this claim?
+*A genetic definition of “French” does not exist, as genetic signatures in French people today are different from those in French people 1,000 years ago.
+23andMe results have no actual scientific basis.
+There are no genetic signatures unique to any human population.
+The report cannot be scientifically founded, as no French genomes have ever been sequenced.
+
+Which of the following statements best explains the significance of the completion of the Telomere-to-Telomere (T2T) Project?
+*The Human Genome Project only sequenced approximately 92% of the human genome, while the T2T project sequenced 100% of the human genome.
+The T2T Project confirms the findings of the Human Genome Project.
+Telomeres are proteins that affect how genes are expressed, so the T2T Project gives additional information about the genome.
+The T2T Project provided the first-ever insight into the composition of telomeres.
+
+What does the “A” in DNA stand for?
+*acid
+adenine
+adaptive
+amine
+
+Which of the following methods is an example of next-generation sequencing?
+*Illumina dye sequencing
+Maxam–Gilbert sequencing
+Sanger sequencing
+microhole sequencing
+
+Which of the following types of proteins help DNA to form chromosomes?
+*histones
+phosphate groups
+ribosomes
+transcription factors
+
+Which of the following examples violates the central dogma of molecular biology?
+*A retrovirus, like HIV, uses reverse transcriptase to turn its RNA into DNA.
+RNA polymerase I transcribes ribosomal RNA from DNA.
+An amino acid chain is formed according to instructions encoded by an mRNA molecule.
+Ribosomes in bacteria use an mRNA sequence to synthesize proteins.
+
+Which of the following is the best reason that codons contain three nucleotides each?
+*If there were only two nucleotides in each codon, then there would not be enough combinations to code for all of the standard amino acids.
+Three nucleotides is more than enough to code for all of the standard amino acids, but the excess allows for “wiggle room” in translation.
+Amino acids are synthesized into proteins three-at-a-time.
+One nucleotide comes from each of the leading strand, lagging strand, and RNA polymerase during transcription.
+
+Which of the following is the best reason that ribosomes are necessary for cellular function?
+*Ribosomes facilitate the binding of tRNA anticodons to mRNA codons.
+Ribosomes are not necessary, as evidenced by the fact that some cells do not have any ribosomes.
+Ribosomes are necessary for the transcription of mRNA.
+Because they contain RNA, ribosomes encode unique genetic information that is used during translation.
+
+Which of the following does NOT support the claim that the traditional notion of a gene is antiquated?
+*Genes are barely responsible for organisms’ phenotypes.
+A single gene can produce different proteins via alternate splicing.
+Enhancers for a given gene may be located far away from its coding region.
+Epigenetic effects, which are not encoded in the genome, influence how a gene gets expressed within a cell.
+
+Which of the following is the best reason that the study of epigenetics is important?
+*Epigenetic effects have strong influences on how genes are expressed.
+Epigenetics is an antiquated pseudoscience that promotes scientific racism.
+Epigenetic effects are never inherited, and are thus independent of genotype.
+There are currently no good methods for observing epigenetic modifications to DNA.
+
+Why do we care about SNPs?
+*SNPs are very easy to detect.
+SNPs are always correlated with phenotype.
+The function of an allele is entirely determined by which SNPs it contains.
+Manhattan plots for visualizing GWAS results look super cool.
+
+Which of the following phenomena most directly causes correlations among SNPs?
+*Physical linkage during chromosomal crossover.
+Associations between SNPs and phenotypes found via GWAS studies.
+The difference between sex chromosomes and autosomal chromosomes.
+Random chance with no underlying biological reason.
+
+What does it mean for genotype to explain 80% of variation in a given trait?
+*80% accuracy can be achieved by a statistical model that predicts trait value from genotype.
+80% of variation in that trait is determined by the environment.
+80% of ancestors of an organism with that trait also had that trait.
+80% of all organisms that have been genotyped have that trait.
+
+What does it mean for a SNP to be placed high up on a Manhattan plot representing a GWAS study?
+*The correlation between that SNP and a given trait is statistically significant.
+The correlation between that SNP and a given trait is statistically insignificant.
+That SNP causes a given trait.
+A given trait causes that SNP.
+
+Which of the following statements best explains the assertion that we are all mutants?
+*Every genome contains mutations causing it to vary from the “consensus” genome.
+Every nucleotide is a SNP.
+All organisms exhibit phenotypic mutation in addition to genotypic variance.
+Mutations are so rare that very few humans have them; when no one is a mutant, everyone is a mutant.
+
+Which of the following statements best explains the assertion that GWAS hits are like the stars?
+*The number of associations established between genotype and phenotype by GWASs increases linearly with the number of genomes sampled.
+The number of associations established between genotype and phenotype by GWASs decreases linearly with the number of genomes sampled.
+The numbers of SNPs in the human genome and stars in the universe are roughly equivalent.
+Once we reach a certain sample size of genomes, it becomes difficult to find additional SNPs.
+
+Why are monozygotic (MZ) twins especially likely to exhibit the same traits?
+*The genotypes of two MZ twins are nearly identical.
+Even though many MZ twin pairs are raised in the same environment, their genotypes differ greatly.
+All MZ twins are raised in the same environment.
+MZ twins learn traits from each other.
+
+Which of the following statements is an example of genetic determinism?
+*Homosexuality is entirely determined by a “gay gene.”
+There are strong correlations between geography and genotype in human populations.
+Academic success is entirely determined by the quality of education received.
+Smoking causes genetic mutations that lead to cancer.
+
+What does it mean for a genotype to be correlated with a trait?
+*Organisms with certain genotypes are more likely to exhibit certain traits.
+The trait causes the genotype.
+The alleles in the genotype cause the trait.
+All GWASs will assign low p-value to the SNPs in the genotype.

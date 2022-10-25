@@ -1,0 +1,184 @@
+1. (1 point)
+Why did the Human Genome Project primarily use Sanger sequencing?
+*a. Sanger sequencing was the best sequencing method available at the time.
+b. Sanger sequencing can perform extremely long reads.
+c. Sanger sequencing is the best sequencing method today.
+d. Frederick Sanger led the Human Genome Project.
+
+
+2. (1 point)
+Which of the following is a way that Celera attempted to generate profit?
+*a. Celera tried to patent sequence analysis of certain human genes.
+b. Celera planned to steal the Human Genome Project’s governmental funding.
+c. Celera planned to clone humans using their genetic information.
+d. Celera was a governmental non-profit, and thus did not seek to generate profit.
+
+
+3. (1 point)
+Which of the following is a reason that Moore’s law is significant?
+*a. Moore’s law explains the exponential increase in humanity’s technological development.
+b. Moore’s law predicts that, in the future, sequencing a human genome will be free.
+c. Moore’s law shows how computational advances have outstripped advances in genome sequencing.
+d. Moore’s law prevents the misuse of genetic information.
+#randomize
+
+4. (1 point)
+Which of the following statements best supports the claim that there is no biological basis for race?
+*a. Genetic variation within human populations is greater than genetic variation among human populations.
+b. Human race is primarily determined by geography.
+c. Genetic variation within human populations is less than genetic variation among human populations.
+d. All human populations are genetically identical.
+#randomize
+
+5. (1 point)
+A 23andMe test reports that an individual is 2% French. What is a potential issue with this claim?
+*a. A genetic definition of “French” does not exist, as genetic signatures in French people today are different from those in French people 1,000 years ago.
+b. 23andMe results have no actual scientific basis.
+c. There are no genetic signatures unique to any human population.
+d. The report cannot be scientifically founded, as no French genomes have ever been sequenced.
+#randomize
+
+6. (1 point)
+Which of the following statements best explains the significance of the completion of the Telomere-to-Telomere (T2T) Project?
+*a. The Human Genome Project only sequenced approximately 92% of the human genome, while the T2T project sequenced 100% of the human genome.
+b. The T2T Project confirms the findings of the Human Genome Project.
+c. Telomeres are proteins that affect how genes are expressed, so the T2T Project gives additional information about the genome.
+d. The T2T Project provided the first-ever insight into the composition of telomeres.
+#randomize
+
+7. (1 point)
+What does the “A” in DNA stand for?
+*a. acid
+b. adenine
+c. adaptive
+d. amine
+#randomize
+
+8. (1 point)
+Which of the following methods is an example of next-generation sequencing?
+*a. Illumina dye sequencing
+b. Maxam–Gilbert sequencing
+c. Sanger sequencing
+d. microhole sequencing
+#randomize
+
+9. (1 point)
+Which of the following types of proteins help DNA to form chromosomes?
+*a. histones
+b. phosphate groups
+c. ribosomes
+d. transcription factors
+#randomize
+
+10. (1 point)
+Which of the following examples violates the central dogma of molecular biology?
+*a. A retrovirus, like HIV, uses reverse transcriptase to turn its RNA into DNA.
+b. RNA polymerase I transcribes ribosomal RNA from DNA.
+c. An amino acid chain is formed according to instructions encoded by an mRNA molecule.
+d. Ribosomes in bacteria use an mRNA sequence to synthesize proteins.
+#randomize
+
+11. (1 point)
+Which of the following is the best reason that codons contain three nucleotides each?
+*a. If there were only two nucleotides in each codon, then there would not be enough combinations to code for all of the standard amino acids.
+b. Three nucleotides is more than enough to code for all of the standard amino acids, but the excess allows for “wiggle room” in translation.
+c. Amino acids are synthesized into proteins three-at-a-time.
+d. One nucleotide comes from each of the leading strand, lagging strand, and RNA polymerase during transcription.
+#randomize
+
+12. (1 point)
+Which of the following is the best reason that ribosomes are necessary for cellular function?
+*a. Ribosomes facilitate the binding of tRNA anticodons to mRNA codons.
+b. Ribosomes are not necessary, as evidenced by the fact that some cells do not have any ribosomes.
+c. Ribosomes are necessary for the transcription of mRNA.
+d. Because they contain RNA, ribosomes encode unique genetic information that is used during translation.
+#randomize
+
+13. (1 point)
+Which of the following does NOT support the claim that the traditional notion of a gene is antiquated?
+*a. Genes are barely responsible for organisms’ phenotypes.
+b. A single gene can produce different proteins via alternate splicing.
+c. Enhancers for a given gene may be located far away from its coding region.
+d. Epigenetic effects, which are not encoded in the genome, influence how a gene gets expressed within a cell.
+#randomize
+
+14. (1 point)
+Which of the following is the best reason that the study of epigenetics is important?
+*a. Epigenetic effects have strong influences on how genes are expressed.
+b. Epigenetics is an antiquated pseudoscience that promotes scientific racism.
+c. Epigenetic effects are never inherited, and are thus independent of genotype.
+d. There are currently no good methods for observing epigenetic modifications to DNA.
+#randomize
+
+15. (1 point)
+Why do we care about SNPs?
+*a. SNPs are very easy to detect.
+b. SNPs are always correlated with phenotype.
+c. The function of an allele is entirely determined by which SNPs it contains.
+d. Manhattan plots for visualizing GWAS results look super cool.
+#randomize
+
+16. (1 point)
+Which of the following phenomena most directly causes correlations among SNPs?
+*a. Physical linkage during chromosomal crossover.
+b. Associations between SNPs and phenotypes found via GWAS studies.
+c. The difference between sex chromosomes and autosomal chromosomes.
+d. Random chance with no underlying biological reason.
+#randomize
+
+17. (1 point)
+What does it mean for genotype to explain 80% of variation in a given trait?
+*a. 80% accuracy can be achieved by a statistical model that predicts trait value from genotype.
+b. 80% of variation in that trait is determined by the environment.
+c. 80% of ancestors of an organism with that trait also had that trait.
+d. 80% of all organisms that have been genotyped have that trait.
+#randomize
+
+18. (1 point)
+What does it mean for a SNP to be placed high up on a Manhattan plot representing a GWAS study?
+*a. The correlation between that SNP and a given trait is statistically significant.
+b. The correlation between that SNP and a given trait is statistically insignificant.
+c. That SNP causes a given trait.
+d. A given trait causes that SNP.
+#randomize
+
+19. (1 point)
+Which of the following statements best explains the assertion that we are all mutants?
+*a. Every genome contains mutations causing it to vary from the “consensus” genome.
+b. Every nucleotide is a SNP.
+c. All organisms exhibit phenotypic mutation in addition to genotypic variance.
+d. Mutations are so rare that very few humans have them; when no one is a mutant, everyone is a mutant.
+#randomize
+
+20. (1 point)
+Which of the following statements best explains the assertion that GWAS hits are like the stars?
+*a. The number of associations established between genotype and phenotype by GWASs increases linearly with the number of genomes sampled.
+b. The number of associations established between genotype and phenotype by GWASs decreases linearly with the number of genomes sampled.
+c. The numbers of SNPs in the human genome and stars in the universe are roughly equivalent.
+d. Once we reach a certain sample size of genomes, it becomes difficult to find additional SNPs.
+#randomize
+
+21. (1 point)
+Why are monozygotic (MZ) twins especially likely to exhibit the same traits?
+*a. The genotypes of two MZ twins are nearly identical.
+b. Even though many MZ twin pairs are raised in the same environment, their genotypes differ greatly.
+c. All MZ twins are raised in the same environment.
+d. MZ twins learn traits from each other.
+#randomize
+
+22. (1 point)
+Which of the following statements is an example of genetic determinism?
+*a. Homosexuality is entirely determined by a “gay gene.”
+b. There are strong correlations between geography and genotype in human populations.
+c. Academic success is entirely determined by the quality of education received.
+d. Smoking causes genetic mutations that lead to cancer.
+#randomize
+
+23. (1 point)
+What does it mean for a genotype to be correlated with a trait?
+*a. Organisms with certain genotypes are more likely to exhibit certain traits.
+b. The trait causes the genotype.
+c. The alleles in the genotype cause the trait.
+d. All GWASs will assign low p-value to the SNPs in the genotype.
+#randomize
+
